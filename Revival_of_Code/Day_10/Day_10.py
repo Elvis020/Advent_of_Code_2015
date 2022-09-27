@@ -8,6 +8,7 @@ def look_and_say(data, iterations):
     else:
         return look_and_say(new_data, iterations - 1)
 
+
 # Part 1
 # print(look_and_say('3113322113', 40))  # 329356
 
